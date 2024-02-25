@@ -11,18 +11,9 @@
 [submodule "jcpowysr"]
 	path = jcpowysr
 	url = https://github.com/MHenderson/jcpowysr
-[submodule "minionator"]
-	path = minionator
-	url = https://github.com/MHenderson/minionator
-[submodule "mopr"]
-	path = mopr
-	url = https://github.com/MHenderson/mopr
 [submodule "poetrytools"]
 	path = poetrytools
 	url = https://github.com/MHenderson/poetrytools
-[submodule "rminion"]
-	path = rminion
-	url = https://github.com/MHenderson/rminion
 [submodule "roomba"]
 	path = roomba
 	url = https://github.com/ropenscilabs/roomba
