@@ -2,15 +2,24 @@
 	path = .registry
 	url = https://github.com/mhenderson/mhenderson.r-universe.dev
 	branch = HEAD
+[submodule "blackmore"]
+	path = blackmore
+	url = https://github.com/MHenderson/blackmore
 [submodule "funcgeo"]
 	path = funcgeo
 	url = https://github.com/MHenderson/funcgeo
+[submodule "jcpowysr"]
+	path = jcpowysr
+	url = https://github.com/MHenderson/jcpowysr
 [submodule "minionator"]
 	path = minionator
 	url = https://github.com/MHenderson/minionator
 [submodule "mopr"]
 	path = mopr
 	url = https://github.com/MHenderson/mopr
+[submodule "poetrytools"]
+	path = poetrytools
+	url = https://github.com/MHenderson/poetrytools
 [submodule "rminion"]
 	path = rminion
 	url = https://github.com/MHenderson/rminion
@@ -18,6 +27,9 @@
 	path = roomba
 	url = https://github.com/ropenscilabs/roomba
 	registered = false
+[submodule "rudoku"]
+	path = rudoku
+	url = https://github.com/MHenderson/rudoku
 [submodule "todotxt"]
 	path = todotxt
 	url = https://github.com/MHenderson/todotxt
