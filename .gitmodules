@@ -27,9 +27,6 @@
 	path = roomba
 	url = https://github.com/ropenscilabs/roomba
 	registered = false
-[submodule "rudoku"]
-	path = rudoku
-	url = https://github.com/MHenderson/rudoku
 [submodule "todotxt"]
 	path = todotxt
 	url = https://github.com/MHenderson/todotxt
