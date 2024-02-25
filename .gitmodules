@@ -2,28 +2,22 @@
 	path = .registry
 	url = https://github.com/mhenderson/mhenderson.r-universe.dev
 	branch = HEAD
-[submodule "dhlawrencer"]
-	path = dhlawrencer
-	url = https://github.com/MHenderson/dhlawrencer
 [submodule "funcgeo"]
 	path = funcgeo
 	url = https://github.com/MHenderson/funcgeo
 [submodule "minionator"]
 	path = minionator
-	url = https://github.com/minion-r/minionator
+	url = https://github.com/MHenderson/minionator
 [submodule "mopr"]
 	path = mopr
-	url = https://github.com/minion-r/mopr
+	url = https://github.com/MHenderson/mopr
 [submodule "rminion"]
 	path = rminion
-	url = https://github.com/minion-r/rminion
+	url = https://github.com/MHenderson/rminion
 [submodule "roomba"]
 	path = roomba
 	url = https://github.com/ropenscilabs/roomba
 	registered = false
-[submodule "thomashardyr"]
-	path = thomashardyr
-	url = https://github.com/MHenderson/thomashardyr
 [submodule "todotxt"]
 	path = todotxt
 	url = https://github.com/MHenderson/todotxt
