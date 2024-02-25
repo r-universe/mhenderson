@@ -8,9 +8,6 @@
 [submodule "funcgeo"]
 	path = funcgeo
 	url = https://github.com/MHenderson/funcgeo
-[submodule "jcpowysr"]
-	path = jcpowysr
-	url = https://github.com/MHenderson/jcpowysr
 [submodule "poetrytools"]
 	path = poetrytools
 	url = https://github.com/MHenderson/poetrytools
