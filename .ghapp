@@ -1,0 +1,10 @@
+{
+  "id": 47715920,
+  "created_at": "2024-02-25T08:09:27.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["mhenderson.r-universe.dev"]
+}
