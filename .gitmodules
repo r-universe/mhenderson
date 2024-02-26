@@ -27,6 +27,3 @@
 [submodule "todotxt"]
 	path = todotxt
 	url = https://github.com/MHenderson/todotxt
-[submodule "yesno"]
-	path = yesno
-	url = https://github.com/MHenderson/yesno
