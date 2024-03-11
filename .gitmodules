@@ -8,6 +8,7 @@
 [submodule "funcgeo"]
 	path = funcgeo
 	url = https://github.com/MHenderson/funcgeo
+	branch = *release
 [submodule "minionator"]
 	path = minionator
 	url = https://github.com/MHenderson/minionator
