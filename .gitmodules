@@ -9,6 +9,9 @@
 	path = funcgeo
 	url = https://github.com/MHenderson/funcgeo
 	branch = v0.2.1
+[submodule "llinyn"]
+	path = llinyn
+	url = https://github.com/MHenderson/llinyn
 [submodule "minionator"]
 	path = minionator
 	url = https://github.com/MHenderson/minionator
