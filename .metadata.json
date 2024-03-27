@@ -2,5 +2,9 @@
   {
     "package": "funcgeo",
     "releasetag": true
+  },
+  {
+    "package": "llinyn",
+    "releasetag": true
   }
 ]

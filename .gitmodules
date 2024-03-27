@@ -12,6 +12,7 @@
 [submodule "llinyn"]
 	path = llinyn
 	url = https://github.com/MHenderson/llinyn
+	branch = *release
 [submodule "minionator"]
 	path = minionator
 	url = https://github.com/MHenderson/minionator
