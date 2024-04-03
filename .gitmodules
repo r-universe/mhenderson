@@ -8,7 +8,7 @@
 [submodule "funcgeo"]
 	path = funcgeo
 	url = https://github.com/MHenderson/funcgeo
-	branch = v0.2.1
+	branch = v0.3.0
 [submodule "llinyn"]
 	path = llinyn
 	url = https://github.com/MHenderson/llinyn
