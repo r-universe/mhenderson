@@ -4,6 +4,10 @@
     "releasetag": true
   },
   {
+    "package": "keedwell",
+    "releasetag": true
+  },
+  {
     "package": "llinyn",
     "releasetag": true
   }

@@ -9,6 +9,10 @@
 	path = funcgeo
 	url = https://github.com/MHenderson/funcgeo
 	branch = v0.3.0
+[submodule "keedwell"]
+	path = keedwell
+	url = https://github.com/MHenderson/keedwell
+	branch = *release
 [submodule "llinyn"]
 	path = llinyn
 	url = https://github.com/MHenderson/llinyn
