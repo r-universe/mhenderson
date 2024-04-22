@@ -12,7 +12,7 @@
 [submodule "keedwell"]
 	path = keedwell
 	url = https://github.com/MHenderson/keedwell
-	branch = *release
+	branch = v0.1.0
 [submodule "llinyn"]
 	path = llinyn
 	url = https://github.com/MHenderson/llinyn
