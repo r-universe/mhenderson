@@ -1,5 +1,9 @@
 [
   {
+    "package": "dhlawrencer",
+    "releasetag": true
+  },
+  {
     "package": "funcgeo",
     "releasetag": true
   },

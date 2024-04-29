@@ -5,6 +5,10 @@
 [submodule "blackmore"]
 	path = blackmore
 	url = https://github.com/MHenderson/blackmore
+[submodule "dhlawrencer"]
+	path = dhlawrencer
+	url = https://github.com/MHenderson/dhlawrencer
+	branch = *release
 [submodule "funcgeo"]
 	path = funcgeo
 	url = https://github.com/MHenderson/funcgeo
