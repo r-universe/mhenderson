@@ -10,5 +10,9 @@
   {
     "package": "llinyn",
     "releasetag": true
+  },
+  {
+    "package": "thomashardyr",
+    "releasetag": true
   }
 ]

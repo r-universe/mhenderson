@@ -33,6 +33,10 @@
 	path = roomba
 	url = https://github.com/ropenscilabs/roomba
 	registered = false
+[submodule "thomashardyr"]
+	path = thomashardyr
+	url = https://github.com/MHenderson/thomashardyr
+	branch = *release
 [submodule "todotxt"]
 	path = todotxt
 	url = https://github.com/MHenderson/todotxt
