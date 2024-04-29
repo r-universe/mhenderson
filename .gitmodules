@@ -36,7 +36,7 @@
 [submodule "thomashardyr"]
 	path = thomashardyr
 	url = https://github.com/MHenderson/thomashardyr
-	branch = *release
+	branch = v0.2.1
 [submodule "todotxt"]
 	path = todotxt
 	url = https://github.com/MHenderson/todotxt
