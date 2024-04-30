@@ -44,3 +44,6 @@
 [submodule "todotxt"]
 	path = todotxt
 	url = https://github.com/MHenderson/todotxt
+[submodule "yesorno"]
+	path = yesorno
+	url = https://github.com/MHenderson/yesorno
