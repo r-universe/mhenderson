@@ -16,6 +16,14 @@
     "releasetag": true
   },
   {
+    "package": "minionator",
+    "releasetag": true
+  },
+  {
+    "package": "mopr",
+    "releasetag": true
+  },
+  {
     "package": "thomashardyr",
     "releasetag": true
   }
