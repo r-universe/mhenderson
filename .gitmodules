@@ -24,11 +24,11 @@
 [submodule "minionator"]
 	path = minionator
 	url = https://github.com/MHenderson/minionator
-	branch = *release
+	branch = v0.2.0
 [submodule "mopr"]
 	path = mopr
 	url = https://github.com/MHenderson/mopr
-	branch = *release
+	branch = v0.2.0
 [submodule "poetrytools"]
 	path = poetrytools
 	url = https://github.com/MHenderson/poetrytools
