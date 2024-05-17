@@ -35,6 +35,7 @@
 [submodule "rminion"]
 	path = rminion
 	url = https://github.com/MHenderson/rminion
+	branch = *release
 [submodule "roomba"]
 	path = roomba
 	url = https://github.com/ropenscilabs/roomba

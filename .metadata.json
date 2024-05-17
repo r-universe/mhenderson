@@ -24,6 +24,10 @@
     "releasetag": true
   },
   {
+    "package": "rminion",
+    "releasetag": true
+  },
+  {
     "package": "thomashardyr",
     "releasetag": true
   }
