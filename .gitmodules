@@ -32,6 +32,7 @@
 [submodule "poetrytools"]
 	path = poetrytools
 	url = https://github.com/MHenderson/poetrytools
+	branch = *release
 [submodule "rminion"]
 	path = rminion
 	url = https://github.com/MHenderson/rminion
@@ -47,6 +48,9 @@
 [submodule "todotxt"]
 	path = todotxt
 	url = https://github.com/MHenderson/todotxt
+[submodule "wallis"]
+	path = wallis
+	url = https://github.com/MHenderson/wallis
 [submodule "yesorno"]
 	path = yesorno
 	url = https://github.com/MHenderson/yesorno
