@@ -24,10 +24,6 @@
     "releasetag": true
   },
   {
-    "package": "poetrytools",
-    "releasetag": true
-  },
-  {
     "package": "rminion",
     "releasetag": true
   },

@@ -32,7 +32,6 @@
 [submodule "poetrytools"]
 	path = poetrytools
 	url = https://github.com/MHenderson/poetrytools
-	branch = *release
 [submodule "rminion"]
 	path = rminion
 	url = https://github.com/MHenderson/rminion
