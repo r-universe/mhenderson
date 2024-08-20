@@ -50,6 +50,7 @@
 [submodule "wallis"]
 	path = wallis
 	url = https://github.com/MHenderson/wallis
+	branch = *release
 [submodule "yesorno"]
 	path = yesorno
 	url = https://github.com/MHenderson/yesorno
