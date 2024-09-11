@@ -29,6 +29,9 @@
 	path = mopr
 	url = https://github.com/MHenderson/mopr
 	branch = v0.2.0
+[submodule "pages2df"]
+	path = pages2df
+	url = https://github.com/MHenderson/pages2df
 [submodule "poetrytools"]
 	path = poetrytools
 	url = https://github.com/MHenderson/poetrytools
