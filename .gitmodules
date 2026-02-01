@@ -39,10 +39,6 @@
 	path = rminion
 	url = https://github.com/MHenderson/rminion
 	branch = v0.2.0
-[submodule "roomba"]
-	path = roomba
-	url = https://github.com/ropenscilabs/roomba
-	registered = false
 [submodule "thomashardyr"]
 	path = thomashardyr
 	url = https://github.com/MHenderson/thomashardyr
